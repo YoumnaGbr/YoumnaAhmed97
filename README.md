@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Youmna Gabr</h1>
-<h3 align="center">A .NET Developer from Egypt</h3>
+<h3 align="center">A .NET Developer</h3>
 
 ---
 
