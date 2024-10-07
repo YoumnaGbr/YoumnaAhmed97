@@ -50,16 +50,19 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoumnaGbr&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  </a>
+  <h3>📊 GitHub Stats & 🔥 Streak Stats</h3>
+  <table>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoumnaGbr&layout=compact&theme=radical" height="180" alt="Top Languages" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoumnaGbr&theme=radical" height="180" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-<div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoumnaGbr&theme=radical" height="180" alt="GitHub Streak" />
-</div>
 
