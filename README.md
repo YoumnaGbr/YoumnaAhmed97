@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Youmna and I'm a Software Engineer , from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Youmna and I'm a .NET Developer , from Egypt</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="youmna.gabr97@gmail.com" target="_blank">
+  <a href="youmna.h.gabr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/youmnaahmed" target="_blank">
